@@ -8,12 +8,17 @@ rename_dict = {
     'Zysk/strata ze sprzedaży': 'Gross_Profit',
     'Pozostałe przychody operacyjne': 'Other_Op_Income',
     'Zysk/strata z działalności operacyjnej': 'Operating_Profit',
+    'Przychody finansowe': 'Financial income',
     'Zysk/strata brutto': 'Profit_Before_Tax',
     'zysk/strata netto udziałowców jednostki dominującej': 'Net_Profit',
     'Amortyzacja (noty)': 'Depreciation',
     'AKTYWA': 'Assets',
+    'Aktywa trwałe':'fixed assets',
+    'Aktywa obrotowe':'current assets',
     'Kapitał własny udziałowców podmiotu dominującego': 'Equity',
     'Kapitał podstawowy': 'Share_Capital',
+    'Zobowiązania długoterminowe':'Long_Term_Liabilities',
+    'Zobowiązania krótkoterminowe':'Short_Term_Liabilities',
     'Przepływy operacyjne': 'Cashflow_Operating',
     'Przepływy inwestycyjne': 'Cashflow_Investing',
     'Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych': 'Capex',
@@ -21,9 +26,14 @@ rename_dict = {
     'Przepływy pieniężne netto': 'Cashflow_Net',
     'EBITDA': 'EBITDA',
     'Stopa zwrotu z kapitału własnego (ROE)': 'ROE_reported',
-    'Stopa zwrotu z aktywów (ROA)': 'ROA_reported'
+    'Stopa zwrotu z aktywów (ROA)': 'ROA_reported',
+    'Wskaźnik płynności bieżącej':'Current_Ratio',
+    'Wskaźnik płynności szybkiej':'Quick_Ratio',
+    'Wskaźnik obsługi zadłużenia':'Debt_Service_Ratio'
 }
+
 df['Finacial Rate'] = df['Finacial Rate'].map(rename_dict)
+
 df = df.drop_duplicates(subset=['Company', 'Finacial Rate'], keep='first')
 # Pivot — firmy jako wiersze, wskaźniki jako kolumny
 df_wide = df.pivot(index='Company', columns='Finacial Rate', values='Amount in PLN')
