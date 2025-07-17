@@ -31,6 +31,26 @@ rename_dict = {
     'Wskaźnik płynności szybkiej':'Quick_Ratio',
     'Wskaźnik obsługi zadłużenia':'Debt_Service_Ratio'
 }
+name_brands = {
+    'Alior Bank' : 'banking',
+    'Allegro' : 'e-commerce',
+    'Budimex' : 'construction',
+    'CCC' : 'retail - footwear',
+    'CD Projekt' : 'gaming',
+    'Dino' : 'retail - food',
+    'Grupa Kęty' : 'aluminium / industry',
+    'LPP' : 'retail - fashion',
+    'Orange' : 'telecommunication',
+    'Orlen' : 'multi-energy industry',
+    'PZU' : 'insurance',
+    'Pekao' : 'banking',
+    'Pepco' : 'retail - electricity',
+    'Pge' : 'energy - electricity',
+    'Pko' : 'banking',
+    'Santander' : 'banking',
+    'mBank' : 'banking',
+    'Żabka' : 'retail - convenience'
+}
 
 df['Finacial Rate'] = df['Finacial Rate'].map(rename_dict)
 
@@ -39,7 +59,7 @@ df = df.drop_duplicates(subset=['Company', 'Finacial Rate'], keep='first')
 df_wide = df.pivot(index='Company', columns='Finacial Rate', values='Amount in PLN')
 df_wide.columns.name = None  # Usuwa nazwę poziomu kolumn
 df_wide = df_wide.reset_index()  # Przywraca kolumnę "Company" jako zwykłą kolumnę
-
+df_wide['Industry'] = df_wide['Company'].map(name_brands)
 df_wide['ROA_Q1_2025'] = (df_wide['Net_Profit'] / df_wide['Assets']).round(3)
 df_wide['ROE_Q1_2025'] = (df_wide['Net_Profit'] / df_wide['Equity']).round(3)
 df_wide['EBITDA_Margin_Q1_2025'] = (df_wide['EBITDA'] / df_wide['Revenue']).round(3)
