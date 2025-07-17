@@ -15,8 +15,8 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-44588000.0
 Przepływy finansowe,-21472000.0,Alior Bank
 Przepływy pieniężne netto,3234189000.0,Alior Bank
 EBITDA,775438000.0,Alior Bank
-Stopa zwrotu z kapitału własnego (ROE),220.0,Alior Bank
-Stopa zwrotu z aktywów (ROA),30.0,Alior Bank
+Stopa zwrotu z kapitału własnego (ROE),0.22,Alior Bank
+Stopa zwrotu z aktywów (ROA),0.03,Alior Bank
 Przychody ze sprzedaży,2622400000.0,Allegro
 Zysk/strata ze sprzedaży,607100000.0,Allegro
 Zysk/strata z działalności operacyjnej,481500000.0,Allegro
@@ -37,11 +37,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-205300000.
 Przepływy finansowe,-146700000.0,Allegro
 Przepływy pieniężne netto,-259500000.0,Allegro
 EBITDA,710500000.0,Allegro
-Stopa zwrotu z kapitału własnego (ROE),110.0,Allegro
-Stopa zwrotu z aktywów (ROA),60.0,Allegro
-Wskaźnik płynności bieżącej,2260.0,Allegro
-Wskaźnik płynności szybkiej,2180.0,Allegro
-Wskaźnik obsługi zadłużenia,5900.0,Allegro
+Stopa zwrotu z kapitału własnego (ROE),0.11,Allegro
+Stopa zwrotu z aktywów (ROA),0.06,Allegro
+Wskaźnik płynności bieżącej,2.26,Allegro
+Wskaźnik płynności szybkiej,2.18,Allegro
+Wskaźnik obsługi zadłużenia,5.9,Allegro
 Przychody ze sprzedaży,1642059000.0,Budimex
 Zysk/strata ze sprzedaży,92721000.0,Budimex
 Pozostałe przychody operacyjne,38847000.0,Budimex
@@ -63,11 +63,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-36640000.0
 Przepływy finansowe,-16073000.0,Budimex
 Przepływy pieniężne netto,-267350000.0,Budimex
 EBITDA,151774000.0,Budimex
-Stopa zwrotu z kapitału własnego (ROE),480.0,Budimex
-Stopa zwrotu z aktywów (ROA),80.0,Budimex
-Wskaźnik płynności bieżącej,1050.0,Budimex
-Wskaźnik płynności szybkiej,920.0,Budimex
-Wskaźnik obsługi zadłużenia,16580.0,Budimex
+Stopa zwrotu z kapitału własnego (ROE),0.48,Budimex
+Stopa zwrotu z aktywów (ROA),0.08,Budimex
+Wskaźnik płynności bieżącej,1.05,Budimex
+Wskaźnik płynności szybkiej,0.92,Budimex
+Wskaźnik obsługi zadłużenia,16.58,Budimex
 Przychody ze sprzedaży,10302800000.0,CCC
 Zysk/strata ze sprzedaży,998400000.0,CCC
 Pozostałe przychody operacyjne,70500000.0,CCC
@@ -89,11 +89,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-476900000.
 Przepływy finansowe,-716700000.0,CCC
 Przepływy pieniężne netto,194700000.0,CCC
 EBITDA,1634700000.0,CCC
-Stopa zwrotu z kapitału własnego (ROE),710.0,CCC
-Stopa zwrotu z aktywów (ROA),120.0,CCC
-Wskaźnik płynności bieżącej,1160.0,CCC
-Wskaźnik płynności szybkiej,280.0,CCC
-Wskaźnik obsługi zadłużenia,3430.0,CCC
+Stopa zwrotu z kapitału własnego (ROE),0.71,CCC
+Stopa zwrotu z aktywów (ROA),0.12,CCC
+Wskaźnik płynności bieżącej,1.16,CCC
+Wskaźnik płynności szybkiej,0.28,CCC
+Wskaźnik obsługi zadłużenia,3.43,CCC
 Przychody ze sprzedaży,226305000.0,CD Projekt
 Zysk/strata ze sprzedaży,95144000.0,CD Projekt
 Pozostałe przychody operacyjne,1935000.0,CD Projekt
@@ -115,11 +115,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-36314000.0
 Przepływy finansowe,-950000.0,CD Projekt
 Przepływy pieniężne netto,92396000.0,CD Projekt
 EBITDA,112337000.0,CD Projekt
-Stopa zwrotu z kapitału własnego (ROE),170.0,CD Projekt
-Stopa zwrotu z aktywów (ROA),160.0,CD Projekt
-Wskaźnik płynności bieżącej,6800.0,CD Projekt
-Wskaźnik płynności szybkiej,6800.0,CD Projekt
-Wskaźnik obsługi zadłużenia,29930.0,CD Projekt
+Stopa zwrotu z kapitału własnego (ROE),0.17,CD Projekt
+Stopa zwrotu z aktywów (ROA),0.16,CD Projekt
+Wskaźnik płynności bieżącej,6.8,CD Projekt
+Wskaźnik płynności szybkiej,6.8,CD Projekt
+Wskaźnik obsługi zadłużenia,29.93,CD Projekt
 Przychody ze sprzedaży,7354297000.0,Dino
 Zysk/strata ze sprzedaży,411336000.0,Dino
 Pozostałe przychody operacyjne,8327000.0,Dino
@@ -141,11 +141,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-515635000.
 Przepływy finansowe,-7506000.0,Dino
 Przepływy pieniężne netto,-513798000.0,Dino
 EBITDA,532260000.0,Dino
-Stopa zwrotu z kapitału własnego (ROE),230.0,Dino
-Stopa zwrotu z aktywów (ROA),130.0,Dino
-Wskaźnik płynności bieżącej,810.0,Dino
-Wskaźnik płynności szybkiej,150.0,Dino
-Wskaźnik obsługi zadłużenia,19920.0,Dino
+Stopa zwrotu z kapitału własnego (ROE),0.23,Dino
+Stopa zwrotu z aktywów (ROA),0.13,Dino
+Wskaźnik płynności bieżącej,0.81,Dino
+Wskaźnik płynności szybkiej,0.15,Dino
+Wskaźnik obsługi zadłużenia,19.92,Dino
 Przychody ze sprzedaży,1406000000.0,Grupa Kęty
 Zysk/strata ze sprzedaży,168000000.0,Grupa Kęty
 Pozostałe przychody operacyjne,4000000.0,Grupa Kęty
@@ -167,11 +167,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-45000000.0
 Przepływy finansowe,-179000000.0,Grupa Kęty
 Przepływy pieniężne netto,-25000000.0,Grupa Kęty
 EBITDA,228000000.0,Grupa Kęty
-Stopa zwrotu z kapitału własnego (ROE),280.0,Grupa Kęty
-Stopa zwrotu z aktywów (ROA),130.0,Grupa Kęty
-Wskaźnik płynności bieżącej,1640.0,Grupa Kęty
-Wskaźnik płynności szybkiej,850.0,Grupa Kęty
-Wskaźnik obsługi zadłużenia,11130.0,Grupa Kęty
+Stopa zwrotu z kapitału własnego (ROE),0.28,Grupa Kęty
+Stopa zwrotu z aktywów (ROA),0.13,Grupa Kęty
+Wskaźnik płynności bieżącej,1.64,Grupa Kęty
+Wskaźnik płynności szybkiej,0.85,Grupa Kęty
+Wskaźnik obsługi zadłużenia,11.13,Grupa Kęty
 Przychody ze sprzedaży,566900000.0,LPP
 Zysk/strata ze sprzedaży,3200000.0,LPP
 Pozostałe przychody operacyjne,1800000.0,LPP
@@ -195,9 +195,9 @@ Przepływy pieniężne netto,-28600000.0,LPP
 EBITDA,18400000.0,LPP
 Stopa zwrotu z kapitału własnego (ROE),0.0,LPP
 Stopa zwrotu z aktywów (ROA),0.0,LPP
-Wskaźnik płynności bieżącej,1440.0,LPP
-Wskaźnik płynności szybkiej,720.0,LPP
-Wskaźnik obsługi zadłużenia,2630.0,LPP
+Wskaźnik płynności bieżącej,1.44,LPP
+Wskaźnik płynności szybkiej,0.72,LPP
+Wskaźnik obsługi zadłużenia,2.63,LPP
 Przychody ze sprzedaży,4541874000.0,mBank
 Zysk/strata ze sprzedaży,1345654000.0,mBank
 Pozostałe przychody operacyjne,106221000.0,mBank
@@ -214,8 +214,8 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-201896000.
 Przepływy finansowe,-2089880000.0,mBank
 Przepływy pieniężne netto,-19958842000.0,mBank
 EBITDA,1324957000.0,mBank
-Stopa zwrotu z kapitału własnego (ROE),170.0,mBank
-Stopa zwrotu z aktywów (ROA),10.0,mBank
+Stopa zwrotu z kapitału własnego (ROE),0.17,mBank
+Stopa zwrotu z aktywów (ROA),0.01,mBank
 Przychody ze sprzedaży,3153000000.0,Orange
 Zysk/strata ze sprzedaży,259000000.0,Orange
 Pozostałe przychody operacyjne,214000000.0,Orange
@@ -237,11 +237,11 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-667000000.
 Przepływy finansowe,154000000.0,Orange
 Przepływy pieniężne netto,-23000000.0,Orange
 EBITDA,966000000.0,Orange
-Stopa zwrotu z kapitału własnego (ROE),60.0,Orange
-Stopa zwrotu z aktywów (ROA),30.0,Orange
-Wskaźnik płynności bieżącej,920.0,Orange
-Wskaźnik płynności szybkiej,850.0,Orange
-Wskaźnik obsługi zadłużenia,9910.0,Orange
+Stopa zwrotu z kapitału własnego (ROE),0.06,Orange
+Stopa zwrotu z aktywów (ROA),0.03,Orange
+Wskaźnik płynności bieżącej,0.92,Orange
+Wskaźnik płynności szybkiej,0.85,Orange
+Wskaźnik obsługi zadłużenia,9.91,Orange
 Przychody ze sprzedaży,73535000000.0,Orlen
 Zysk/strata ze sprzedaży,7839000000.0,Orlen
 Pozostałe przychody operacyjne,1245000000.0,Orlen
@@ -263,29 +263,29 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-6801000000
 Przepływy finansowe,-233000000.0,Orlen
 Przepływy pieniężne netto,8723000000.0,Orlen
 EBITDA,10167000000.0,Orlen
-Stopa zwrotu z kapitału własnego (ROE),60.0,Orlen
-Stopa zwrotu z aktywów (ROA),40.0,Orlen
-Wskaźnik płynności bieżącej,1240.0,Orlen
-Wskaźnik płynności szybkiej,960.0,Orlen
-Wskaźnik obsługi zadłużenia,17270.0,Orlen
-Przychody ze sprzedaży,5944000000.0,Bank Pekao
-Zysk/strata ze sprzedaży,2554000000.0,Bank Pekao
-Pozostałe przychody operacyjne,56000000.0,Bank Pekao
-Zysk/strata z działalności operacyjnej,2411000000.0,Bank Pekao
-Zysk/strata brutto,2193000000.0,Bank Pekao
-zysk/strata netto udziałowców jednostki dominującej,1685000000.0,Bank Pekao
-Amortyzacja (noty),187000000.0,Bank Pekao
-AKTYWA,333313000000.0,Bank Pekao
-Kapitał własny udziałowców podmiotu dominującego,33976000000.0,Bank Pekao
-Kapitał podstawowy,262000000.0,Bank Pekao
-Przepływy operacyjne,1745000000.0,Bank Pekao
-Przepływy inwestycyjne,2840000000.0,Bank Pekao
-Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-130000000.0,Bank Pekao
-Przepływy finansowe,-1624000000.0,Bank Pekao
-Przepływy pieniężne netto,2961000000.0,Bank Pekao
-EBITDA,2598000000.0,Bank Pekao
-Stopa zwrotu z kapitału własnego (ROE),210.0,Bank Pekao
-Stopa zwrotu z aktywów (ROA),20.0,Bank Pekao
+Stopa zwrotu z kapitału własnego (ROE),0.06,Orlen
+Stopa zwrotu z aktywów (ROA),0.04,Orlen
+Wskaźnik płynności bieżącej,1.24,Orlen
+Wskaźnik płynności szybkiej,0.96,Orlen
+Wskaźnik obsługi zadłużenia,17.27,Orlen
+Przychody ze sprzedaży,5944000000.0,Pekao
+Zysk/strata ze sprzedaży,2554000000.0,Pekao
+Pozostałe przychody operacyjne,56000000.0,Pekao
+Zysk/strata z działalności operacyjnej,2411000000.0,Pekao
+Zysk/strata brutto,2193000000.0,Pekao
+zysk/strata netto udziałowców jednostki dominującej,1685000000.0,Pekao
+Amortyzacja (noty),187000000.0,Pekao
+AKTYWA,333313000000.0,Pekao
+Kapitał własny udziałowców podmiotu dominującego,33976000000.0,Pekao
+Kapitał podstawowy,262000000.0,Pekao
+Przepływy operacyjne,1745000000.0,Pekao
+Przepływy inwestycyjne,2840000000.0,Pekao
+Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-130000000.0,Pekao
+Przepływy finansowe,-1624000000.0,Pekao
+Przepływy pieniężne netto,2961000000.0,Pekao
+EBITDA,2598000000.0,Pekao
+Stopa zwrotu z kapitału własnego (ROE),0.21,Pekao
+Stopa zwrotu z aktywów (ROA),0.02,Pekao
 Przychody ze sprzedaży,3338333000.0,Pepco
 Zysk/strata ze sprzedaży,161216000.0,Pepco
 Zysk/strata z działalności operacyjnej,-79214000.0,Pepco
@@ -306,68 +306,68 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-52586000.0
 Przepływy finansowe,-259408000.0,Pepco
 Przepływy pieniężne netto,-30350000.0,Pepco
 EBITDA,452106000.0,Pepco
-Przychody ze sprzedaży,17167000000.0,PGE
-Zysk/strata ze sprzedaży,3177000000.0,PGE
-Pozostałe przychody operacyjne,80000000.0,PGE
-Zysk/strata z działalności operacyjnej,3260000000.0,PGE
-Zysk/strata brutto,3012000000.0,PGE
-zysk/strata netto udziałowców jednostki dominującej,2416000000.0,PGE
-Amortyzacja (noty),1050000000.0,PGE
-AKTYWA,104710000000.0,PGE
-Aktywa trwałe,77233000000.0,PGE
-Aktywa obrotowe,27477000000.0,PGE
-Kapitał własny udziałowców podmiotu dominującego,47200000000.0,PGE
-Kapitał podstawowy,19184000000.0,PGE
-Zobowiązania długoterminowe,23607000000.0,PGE
-Zobowiązania krótkoterminowe,32789000000.0,PGE
-Przepływy operacyjne,4738000000.0,PGE
-Przepływy inwestycyjne,-1910000000.0,PGE
-Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-1893000000.0,PGE
-Przepływy finansowe,-1576000000.0,PGE
-Przepływy pieniężne netto,1252000000.0,PGE
-EBITDA,4310000000.0,PGE
-Stopa zwrotu z kapitału własnego (ROE),-30.0,PGE
-Stopa zwrotu z aktywów (ROA),-10.0,PGE
-Wskaźnik płynności bieżącej,840.0,PGE
-Wskaźnik płynności szybkiej,440.0,PGE
-Wskaźnik obsługi zadłużenia,16670.0,PGE
-Przychody ze sprzedaży,10138000000.0,PKO BP SA
-Zysk/strata ze sprzedaży,3885000000.0,PKO BP SA
-Pozostałe przychody operacyjne,109000000.0,PKO BP SA
-Zysk/strata z działalności operacyjnej,3667000000.0,PKO BP SA
-Zysk/strata brutto,3383000000.0,PKO BP SA
-zysk/strata netto udziałowców jednostki dominującej,2469000000.0,PKO BP SA
-Amortyzacja (noty),397000000.0,PKO BP SA
-AKTYWA,531355000000.0,PKO BP SA
-Kapitał własny udziałowców podmiotu dominującego,55383000000.0,PKO BP SA
-Kapitał podstawowy,1250000000.0,PKO BP SA
-Przepływy operacyjne,-4420000000.0,PKO BP SA
-Przepływy inwestycyjne,-5158000000.0,PKO BP SA
-Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-135000000.0,PKO BP SA
-Przepływy finansowe,3109000000.0,PKO BP SA
-Przepływy pieniężne netto,-6469000000.0,PKO BP SA
-EBITDA,4064000000.0,PKO BP SA
-Stopa zwrotu z kapitału własnego (ROE),190.0,PKO BP SA
-Stopa zwrotu z aktywów (ROA),20.0,PKO BP SA
-Przychody ze sprzedaży,15653000000.0,PZU SA
-Zysk/strata ze sprzedaży,6005000000.0,PZU SA
-Pozostałe przychody operacyjne,1390000000.0,PZU SA
-Zysk/strata z działalności operacyjnej,4950000000.0,PZU SA
-Przychody finansowe,-49000000.0,PZU SA
-Zysk/strata brutto,4454000000.0,PZU SA
-zysk/strata netto udziałowców jednostki dominującej,1760000000.0,PZU SA
-Amortyzacja (noty),380000000.0,PZU SA
-AKTYWA,507926000000.0,PZU SA
-Kapitał własny udziałowców podmiotu dominującego,34055000000.0,PZU SA
-Kapitał podstawowy,86000000.0,PZU SA
-Przepływy operacyjne,5633000000.0,PZU SA
-Przepływy inwestycyjne,3372000000.0,PZU SA
-Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-269000000.0,PZU SA
-Przepływy finansowe,-1927000000.0,PZU SA
-Przepływy pieniężne netto,7078000000.0,PZU SA
-EBITDA,5330000000.0,PZU SA
-Stopa zwrotu z kapitału własnego (ROE),200.0,PZU SA
-Stopa zwrotu z aktywów (ROA),30.0,PZU SA
+Przychody ze sprzedaży,17167000000.0,Pge
+Zysk/strata ze sprzedaży,3177000000.0,Pge
+Pozostałe przychody operacyjne,80000000.0,Pge
+Zysk/strata z działalności operacyjnej,3260000000.0,Pge
+Zysk/strata brutto,3012000000.0,Pge
+zysk/strata netto udziałowców jednostki dominującej,2416000000.0,Pge
+Amortyzacja (noty),1050000000.0,Pge
+AKTYWA,104710000000.0,Pge
+Aktywa trwałe,77233000000.0,Pge
+Aktywa obrotowe,27477000000.0,Pge
+Kapitał własny udziałowców podmiotu dominującego,47200000000.0,Pge
+Kapitał podstawowy,19184000000.0,Pge
+Zobowiązania długoterminowe,23607000000.0,Pge
+Zobowiązania krótkoterminowe,32789000000.0,Pge
+Przepływy operacyjne,4738000000.0,Pge
+Przepływy inwestycyjne,-1910000000.0,Pge
+Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-1893000000.0,Pge
+Przepływy finansowe,-1576000000.0,Pge
+Przepływy pieniężne netto,1252000000.0,Pge
+EBITDA,4310000000.0,Pge
+Stopa zwrotu z kapitału własnego (ROE),-0.03,Pge
+Stopa zwrotu z aktywów (ROA),-0.01,Pge
+Wskaźnik płynności bieżącej,0.84,Pge
+Wskaźnik płynności szybkiej,0.44,Pge
+Wskaźnik obsługi zadłużenia,16.67,Pge
+Przychody ze sprzedaży,10138000000.0,Pko
+Zysk/strata ze sprzedaży,3885000000.0,Pko
+Pozostałe przychody operacyjne,109000000.0,Pko
+Zysk/strata z działalności operacyjnej,3667000000.0,Pko
+Zysk/strata brutto,3383000000.0,Pko
+zysk/strata netto udziałowców jednostki dominującej,2469000000.0,Pko
+Amortyzacja (noty),397000000.0,Pko
+AKTYWA,531355000000.0,Pko
+Kapitał własny udziałowców podmiotu dominującego,55383000000.0,Pko
+Kapitał podstawowy,1250000000.0,Pko
+Przepływy operacyjne,-4420000000.0,Pko
+Przepływy inwestycyjne,-5158000000.0,Pko
+Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-135000000.0,Pko
+Przepływy finansowe,3109000000.0,Pko
+Przepływy pieniężne netto,-6469000000.0,Pko
+EBITDA,4064000000.0,Pko
+Stopa zwrotu z kapitału własnego (ROE),0.19,Pko
+Stopa zwrotu z aktywów (ROA),0.02,Pko
+Przychody ze sprzedaży,15653000000.0,PZU
+Zysk/strata ze sprzedaży,6005000000.0,PZU
+Pozostałe przychody operacyjne,1390000000.0,PZU
+Zysk/strata z działalności operacyjnej,4950000000.0,PZU
+Przychody finansowe,-49000000.0,PZU
+Zysk/strata brutto,4454000000.0,PZU
+zysk/strata netto udziałowców jednostki dominującej,1760000000.0,PZU
+Amortyzacja (noty),380000000.0,PZU
+AKTYWA,507926000000.0,PZU
+Kapitał własny udziałowców podmiotu dominującego,34055000000.0,PZU
+Kapitał podstawowy,86000000.0,PZU
+Przepływy operacyjne,5633000000.0,PZU
+Przepływy inwestycyjne,3372000000.0,PZU
+Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-269000000.0,PZU
+Przepływy finansowe,-1927000000.0,PZU
+Przepływy pieniężne netto,7078000000.0,PZU
+EBITDA,5330000000.0,PZU
+Stopa zwrotu z kapitału własnego (ROE),0.2,PZU
+Stopa zwrotu z aktywów (ROA),0.03,PZU
 Przychody ze sprzedaży,5952346000.0,Santander
 Zysk/strata ze sprzedaży,2777289000.0,Santander
 Pozostałe przychody operacyjne,45794000.0,Santander
@@ -384,8 +384,8 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-88018000.0
 Przepływy finansowe,-311747000.0,Santander
 Przepływy pieniężne netto,937252000.0,Santander
 EBITDA,2680252000.0,Santander
-Stopa zwrotu z kapitału własnego (ROE),160.0,Santander
-Stopa zwrotu z aktywów (ROA),20.0,Santander
+Stopa zwrotu z kapitału własnego (ROE),0.16,Santander
+Stopa zwrotu z aktywów (ROA),0.02,Santander
 Przychody ze sprzedaży,5666000000.0,Żabka
 Zysk/strata ze sprzedaży,626000000.0,Żabka
 Pozostałe przychody operacyjne,5000000.0,Żabka
@@ -407,6 +407,6 @@ Nabycie rzeczowych aktywów trwałych oraz wartości niematerialnych,-517000000.
 Przepływy finansowe,-264000000.0,Żabka
 Przepływy pieniężne netto,-198000000.0,Żabka
 EBITDA,545000000.0,Żabka
-Wskaźnik płynności bieżącej,540.0,Żabka
-Wskaźnik płynności szybkiej,410.0,Żabka
-Wskaźnik obsługi zadłużenia,3300.0,Żabka
+Wskaźnik płynności bieżącej,0.54,Żabka
+Wskaźnik płynności szybkiej,0.41,Żabka
+Wskaźnik obsługi zadłużenia,3.3,Żabka

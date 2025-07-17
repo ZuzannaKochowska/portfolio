@@ -40,7 +40,14 @@ df_wide = df.pivot(index='Company', columns='Finacial Rate', values='Amount in P
 df_wide.columns.name = None  # Usuwa nazwę poziomu kolumn
 df_wide = df_wide.reset_index()  # Przywraca kolumnę "Company" jako zwykłą kolumnę
 
+df_wide['ROA'] = (df_wide['Net_Profit'] / df_wide['Assets']).round(2)
+df_wide['ROE'] = (df_wide['Net_Profit'] / df_wide['Equity']).round(2)
+df_wide['EBITDA_Margin'] = (df_wide['EBITDA'] / df_wide['Revenue']).round(2)
+df_wide['Net_Profit_Margin'] = (df_wide['Net_Profit'] / df_wide['Revenue']).round(2)
+df_wide['Debt_to_Equity'] = ((df_wide['Short_Term_Liabilities'] + df_wide['Long_Term_Liabilities']) / df_wide['Equity']).round(2)
 
-df_wide.to_csv('all_companies_wide.csv', index=False)
+df_wide.to_csv('all_companies_wide_with_ratios.csv', index=False)
+
+
 # Podgląd nowej tabeli
 print(df_wide.head())
