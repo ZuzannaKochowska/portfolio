@@ -43,12 +43,12 @@ Dla każdej spółki wyliczono:
 - **Aktywa i kapitał własny** – dane bilansowe na dzień **31.03.2025**. 
 
 Struktura repozytorium:
-📁 data/ -> dane źródłowe (CSV)
-📁 report/ -> raport analizy w pdf
-📁 notebooks/ -> analizy i wykresy w Jupyter Notebook
-📁 sql/ -> zapytania SQL (MySQL)
-📁 scripts/ -> skrypty do czyszczenia, pivotowania, importu
-README.md -> opis projektu
+- 📁 data/ -> dane źródłowe (CSV)
+- 📁 report/ -> raport analizy w pdf
+- 📁 notebooks/ -> analizy i wykresy w Jupyter Notebook
+- 📁 sql/ -> zapytania SQL (MySQL)
+- 📁 scripts/ -> skrypty do czyszczenia, pivotowania, importu
+- README.md -> opis projektu
 
 UWAGA
 Ten projekt służy wyłącznie celom edukacyjnym i nie stanowi porady inwestycyjnej.
@@ -106,12 +106,12 @@ The following key financial indicators were calculated for each company:
 
 Repository Structure:
 
-📁 data/ → source data (CSV files)
-📁 report/ → final analysis report (PDF)
-📁 notebooks/ → Jupyter Notebook files with analysis and visualizations
-📁 sql/ → SQL queries (MySQL)
-📁 scripts/ → Python scripts for cleaning, pivoting, and importing data
-README.md → project description
+- 📁 data/ → source data (CSV files)
+- 📁 report/ → final analysis report (PDF)
+- 📁 notebooks/ → Jupyter Notebook files with analysis and visualizations
+- 📁 sql/ → SQL queries (MySQL)
+- 📁 scripts/ → Python scripts for cleaning, pivoting, and importing data
+- README.md → project description
 
 Notes:
 
