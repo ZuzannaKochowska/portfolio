@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 # Dane do logowania do bazy
 user = "root"
-password = "Farmazony10!"
+password = "xxx!"
 host = "localhost"
 port = "3306"
 database = "companies_financial_rates"
