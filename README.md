@@ -22,7 +22,8 @@ Technologie:
 - Jupyter Notebook
 - Źródła danych: GPW, raporty finansowe spółek
 
-BAZA DANYCH I **SQL**
+BAZA DANYCH I SQL:
+
 Dodatkowo, przygotowano plik z zapytaniami SQL **profitability_analysis_queries.sql** , które można wykorzystać do analizy danych finansowych w relacyjnej bazie danych (MySQL).
 Zakres zapytań obejmuje m.in.:
 - tworzenie tabel i załadowanie danych,
