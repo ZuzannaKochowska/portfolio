@@ -12,7 +12,7 @@ database = "companies_financial_rates"
 engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}:{port}/{database}")
 
 # Wczytaj plik CSV
-df = pd.read_csv("all_companies_wide_with_ratios.csv")
+df = pd.read_csv("../data/all_companies_wide_with_ratios.csv")
 
 # Zapisz dane do bazy MySQL
 df.to_sql(name='companies_financial_rates', con=engine, if_exists='replace', index=False)

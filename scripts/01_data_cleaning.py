@@ -2,7 +2,7 @@ import pandas as pd
 
 column_names = ['Finacial Rate', 'Amount in PLN']
 
-df = pd.read_csv('zabka.csv', header=None, names=column_names)
+df = pd.read_csv('../zabka.csv', header=None, names=column_names)
 df['Amount in PLN'] = df['Amount in PLN'].str.replace(' ', '', regex=False).str.replace(',', '.', regex=False).astype(float)
 
 percent_keywords = ['ROE', 'ROA', 'wskaźnik']

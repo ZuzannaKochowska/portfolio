@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Wczytaj dane
-df = pd.read_csv("all_companies.csv")
+df = pd.read_csv("../data/all_companies.csv")
 
 rename_dict = {
     'Przychody ze sprzedaży': 'Revenue',

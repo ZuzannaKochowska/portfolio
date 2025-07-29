@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import glob
 
-folder_path = './'
+folder_path = '../'
 file_paths = glob.glob(os.path.join(folder_path, '*_clean.csv'))
 
 #Lista
