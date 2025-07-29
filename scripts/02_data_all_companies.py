@@ -15,6 +15,6 @@ for path in file_paths:
 
 df_all = pd.concat(dfs, ignore_index=True)
 
-df_all.to_csv('all_companies.csv', index=False)
+df_all.to_csv('../data/all_companies.csv', index=False)
 
 print("Plik 'all_companies.csv' został zapisany.")

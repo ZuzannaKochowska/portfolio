@@ -39,6 +39,8 @@ name_brands = {
     'CD Projekt' : 'gaming',
     'Dino' : 'retail - food',
     'Grupa Kęty' : 'aluminium / industry',
+    'KGHM': 'metal mining and processing',
+    'Kruk': 'vindication',
     'LPP' : 'retail - fashion',
     'Orange' : 'telecommunication',
     'Orlen' : 'multi-energy industry',
@@ -66,7 +68,7 @@ df_wide['EBITDA_Margin_Q1_2025'] = (df_wide['EBITDA'] / df_wide['Revenue']).roun
 df_wide['Net_Profit_Margin_Q1_2025'] = (df_wide['Net_Profit'] / df_wide['Revenue']).round(3)
 df_wide['Debt_to_Equity_Q1_2025'] = ((df_wide['Short_Term_Liabilities'] + df_wide['Long_Term_Liabilities']) / df_wide['Equity']).round(3)
 
-df_wide.to_csv('all_companies_wide_with_ratios.csv', index=False)
+df_wide.to_csv('../data/all_companies_wide_with_ratios.csv', index=False)
 
 
 # Podgląd nowej tabeli
