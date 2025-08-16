@@ -46,7 +46,7 @@ name_brands = {
     'Orlen' : 'multi-energy industry',
     'PZU' : 'insurance',
     'Pekao' : 'banking',
-    'Pepco' : 'retail - electricity',
+    'Pepco' : 'retail',
     'Pge' : 'energy - electricity',
     'Pko' : 'banking',
     'Santander' : 'banking',
